@@ -1,0 +1,36 @@
+.rouge{
+    /* on ne fait jamais cela */
+    height:400px;
+    /*mettre une hauteur fixe en bootstrap*/
+    background-color: red;
+}
+.bleu{
+    height: 400px;
+    background-color: blue;
+}
+.vert{
+    height: 400px;
+    background-color: green;
+}
+.jaune{
+    height: 400px;
+    background: yellow;
+}
+.bg{
+    background-image: url(../img/defec2951b05ce11a14d59ba05fc1496.png);
+    background-size: cover ;
+    height: 800px;
+}
+.italic{
+    font-style: italic;
+}
+hr {
+    padding-bottom: 30px;
+    padding-top: 30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #117a8b;
+}
+.bg2{
+    background-color: #9fcdff;
+}

@@ -24,13 +24,23 @@
 .italic{
     font-style: italic;
 }
+
+.bg2{
+    background-color: #9fcdff;
+}
+.buttom{
+    border-radius: 50px;
+}
+.couleur{
+   background-color: #9fcdff;
+}
 hr {
     padding-bottom: 30px;
     padding-top: 30px;
     max-width: 50px;
     border-width: 3px;
-    border-color: #117a8b;
+    border-color: whitesmoke;
 }
-.bg2{
-    background-color: #9fcdff;
+.couleurIcone{
+    color : #454d55;
 }

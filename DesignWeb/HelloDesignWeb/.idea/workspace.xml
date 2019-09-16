@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e5407f8-8d78-4f8f-91eb-10f550139535" name="Default Changelist" comment="" />
+    <list default="true" id="dee70725-146b-47cc-b499-5d2f0caf96c9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,33 +16,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="ProjectId" id="1QPy9Ui0z5CiRQSUIy167iDJS45" />
+  <component name="ProjectId" id="1PmipyxWzACFHPd4TndzB6Rntzn" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\HelloBootStrap\img" />
-      <recent name="D:\HelloBootStrap\html" />
-      <recent name="D:\HelloBootStrap\js" />
-      <recent name="D:\HelloBootStrap" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\HelloBootStrap\img" />
-      <recent name="D:\HelloBootStrap" />
+      <recent name="D:\HelloDesignWeb\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,19 +48,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9e5407f8-8d78-4f8f-91eb-10f550139535" name="Default Changelist" comment="" />
-      <created>1567686374670</created>
+      <changelist id="dee70725-146b-47cc-b499-5d2f0caf96c9" name="Default Changelist" comment="" />
+      <created>1566485858791</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567686374670</updated>
-      <workItem from="1567686375965" duration="5185000" />
-      <workItem from="1567703977181" duration="347000" />
-      <workItem from="1568056434240" duration="5565000" />
-      <workItem from="1568117537079" duration="2671000" />
-      <workItem from="1568135651506" duration="833000" />
-      <workItem from="1568233873338" duration="1837000" />
-      <workItem from="1568297750229" duration="6228000" />
-      <workItem from="1568660929750" duration="4950000" />
+      <updated>1566485858791</updated>
+      <workItem from="1566485863900" duration="3333000" />
+      <workItem from="1566493704030" duration="31000" />
+      <workItem from="1566584112997" duration="2007000" />
+      <workItem from="1566587477622" duration="286000" />
+      <workItem from="1566846657442" duration="822000" />
     </task>
     <servers />
   </component>

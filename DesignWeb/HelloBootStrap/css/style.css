@@ -27,6 +27,7 @@
 
 .bg2{
     background-color: #9fcdff;
+    min-height:400px;
 }
 .buttom{
     border-radius: 50px;
@@ -42,5 +43,5 @@ hr {
     border-color: whitesmoke;
 }
 .couleurIcone{
-    color : #454d55;
+    color : cornflowerblue;
 }

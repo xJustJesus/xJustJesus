@@ -25,23 +25,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1QPy9Ui0z5CiRQSUIy167iDJS45" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebSite" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HelloBootStrap\img" />
+      <recent name="D:\HelloBootStrap" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\HelloBootStrap\img" />
       <recent name="D:\HelloBootStrap\html" />
       <recent name="D:\HelloBootStrap\js" />
-      <recent name="D:\HelloBootStrap" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\HelloBootStrap\img" />
       <recent name="D:\HelloBootStrap" />
     </key>
   </component>
@@ -75,10 +76,30 @@
       <workItem from="1568233873338" duration="1837000" />
       <workItem from="1568297750229" duration="6228000" />
       <workItem from="1568660929750" duration="4950000" />
+      <workItem from="1568666280867" duration="1543000" />
+      <workItem from="1568722587264" duration="2129000" />
+      <workItem from="1568741383373" duration="843000" />
+      <workItem from="1568902502192" duration="207000" />
+      <workItem from="1569331818797" duration="1012000" />
+      <workItem from="1569461875462" duration="115000" />
+      <workItem from="1569507183491" duration="481000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,0 +1,7 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}
+.propre{
+    font: italic bold 12px/30px Georgia, serif;
+}

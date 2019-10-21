@@ -21,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetHTML" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -59,6 +59,11 @@
       <workItem from="1569870443333" duration="6920000" />
       <workItem from="1569931855061" duration="6184000" />
       <workItem from="1570111682905" duration="1779000" />
+      <workItem from="1570540900313" duration="1934000" />
+      <workItem from="1570716551450" duration="651000" />
+      <workItem from="1571371872368" duration="181000" />
+      <workItem from="1571525889913" duration="792000" />
+      <workItem from="1571610607370" duration="1308000" />
     </task>
     <servers />
   </component>

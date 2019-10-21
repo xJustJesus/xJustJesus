@@ -21,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thedford" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -53,6 +53,8 @@
       <updated>1569507842462</updated>
       <workItem from="1569507843623" duration="3597000" />
       <workItem from="1569870362816" duration="83000" />
+      <workItem from="1570540818110" duration="64000" />
+      <workItem from="1571613711807" duration="710000" />
     </task>
     <servers />
   </component>

@@ -30,7 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebSite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloDesignWeb" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -83,6 +83,7 @@
       <workItem from="1569331818797" duration="1012000" />
       <workItem from="1569461875462" duration="115000" />
       <workItem from="1569507183491" duration="481000" />
+      <workItem from="1570539731405" duration="51000" />
     </task>
     <servers />
   </component>

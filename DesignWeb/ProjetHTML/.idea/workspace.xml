@@ -29,7 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EXAMFINAL" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -67,7 +67,11 @@
       <workItem from="1570716600848" duration="6802000" />
       <workItem from="1571371962641" duration="3251000" />
       <workItem from="1571526083499" duration="4361000" />
-      <workItem from="1571610719783" duration="6422000" />
+      <workItem from="1571610719783" duration="8193000" />
+      <workItem from="1571684765336" duration="1988000" />
+      <workItem from="1571747685526" duration="608000" />
+      <workItem from="1575318996764" duration="1525000" />
+      <workItem from="1576171151155" duration="7197000" />
     </task>
     <servers />
   </component>

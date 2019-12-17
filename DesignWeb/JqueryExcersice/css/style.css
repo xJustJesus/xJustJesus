@@ -1,0 +1,24 @@
+html,body { margin:0; height:100%;}
+
+
+
+.blanc{
+    color: white;
+}
+.grosseboite{
+    overflow: hidden;
+    height: 300px;
+    width: 100%;
+
+}
+.bg1{
+    background-image: url("../img/c69f4b26b6709ad24ae26a6195465d69.jpg");
+    height: 100%;
+    transition: all 0.5S ease;
+}
+h3{
+    padding-top: 75px;
+}
+.bg1:hover{
+    transform: scale(1.2) ;
+}
